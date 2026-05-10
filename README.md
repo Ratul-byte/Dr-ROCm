@@ -1,6 +1,7 @@
 # 🏥 Dr. ROCm  
 ### AI-Powered Medical Vision Agent for Rapid Clinical Triage  
 Built for **AMD Cloud Hackathon 2026**
+##Team: Rurouni-X-RZ10
 
 ---
 
