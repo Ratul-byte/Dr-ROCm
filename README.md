@@ -3,6 +3,7 @@
 Built for **AMD Cloud Hackathon 2026**
 ## Team: Rurouni-X-RZ10
 
+Hackathon Project Link: https://lablab.ai/ai-hackathons/amd-developer/rurouni-x-rz10/dr-rocm
 ---
 
 ## 🚀 Overview
